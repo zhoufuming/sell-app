@@ -1,5 +1,5 @@
-# 本项目是vue2项目，vue2 +vue-router2 + es6 +webpack 外卖app
 > # sell app
+## 本项目是vue2项目，vue2 +vue-router2 + es6 + + stylus + webpack 外卖app
 
 ###上图
 ***
