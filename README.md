@@ -1,12 +1,33 @@
 # 本项目是vue2项目，vue2 +vue-router2 + es6 +webpack 外卖app
-
-> sell app
+> # sell app
 
 ###上图
 ***
+* 初始页面
+
+![sell.png](https://github.com/zhoufuming/sell-app/blob/master/results_pic/sell01.png)
+
 * 加入购物车
 
-![11.gif](https://github.com/zhoufuming/sell-app/blob/master/resource/resource/%E5%A4%96%E5%8D%9601_%E5%95%86%E5%93%81%E9%A1%B5.jpg)
+![[sell.png](https://github.com/zhoufuming/sell-app/blob/master/results_pic/sell02.png)
+
+* 产品详情
+
+![sell.png](https://github.com/zhoufuming/sell-app/blob/master/results_pic/sell03.png)
+
+* 商家评论
+
+![sell.png](https://github.com/zhoufuming/sell-app/blob/master/results_pic/sell04.png)
+
+* 商家详情
+
+![sell.png](https://github.com/zhoufuming/sell-app/blob/master/results_pic/sell05.png)
+![sell.png](https://github.com/zhoufuming/sell-app/blob/master/results_pic/sell06.png)
+
+* 商家优惠信息
+
+![sell.png](https://github.com/zhoufuming/sell-app/blob/master/results_pic/sell07.png)
+
 
 # 安装注意
 
