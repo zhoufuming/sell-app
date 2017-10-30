@@ -6,7 +6,7 @@
 ***
 * 加入购物车
 
-![11.gif](http://upload-images.jianshu.io/upload_images/4249223-8d462b93150db24e.gif?imageMogr2/auto-orient/strip)
+![11.gif](https://github.com/zhoufuming/sell-app/blob/master/resource/resource/%E5%A4%96%E5%8D%9601_%E5%95%86%E5%93%81%E9%A1%B5.jpg)
 
 # 安装注意
 
