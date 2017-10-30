@@ -1,4 +1,4 @@
-# sell
+# 本项目是vue2项目，vue2 +vue-router2 + es6 +webpack 外卖app
 
 > sell app
 
