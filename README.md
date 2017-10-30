@@ -9,7 +9,7 @@
 
 * 加入购物车
 
-![[sell.png](https://github.com/zhoufuming/sell-app/blob/master/results_pic/sell02.png)
+![sell.png](https://github.com/zhoufuming/sell-app/blob/master/results_pic/sell02.png)
 
 * 产品详情
 
