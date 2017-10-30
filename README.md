@@ -1,6 +1,14 @@
-# sell
+# 本项目是vue2项目，vue2 +vue-router2 + es6 +webpack 外卖app
 
 > sell app
+
+###上图
+***
+* 加入购物车
+
+![11.gif](https://github.com/zhoufuming/sell-app/blob/master/resource/resource/%E5%A4%96%E5%8D%9601_%E5%95%86%E5%93%81%E9%A1%B5.jpg)
+
+# 安装注意
 
 ## Build Setup
 
@@ -17,5 +25,14 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
+### 实现的功能
+***
+* 商品滚动 ，商品滚轮滚动
+* 商品联动
+* 加入购物车，移除购物车
+* 显示评论 评论筛选
+* 图片左右滑动
+* 商品详情  父子组件的通信
+* 等等
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
