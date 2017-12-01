@@ -1,5 +1,5 @@
 > # sell app
-## 本项目是vue2项目，vue2 + Node.js + es6 + stylus + webpack 外卖app
+## 本项目是vue2项目，vue2 + Node.js + npm + es6 + stylus + webpack 外卖app
 
 ###上图
 ***
